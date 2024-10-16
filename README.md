@@ -16,7 +16,7 @@ Auto Claim for XEmpire Telegram Bot
 
 # Register
 
-Click the following URL to register: [XEmpire Bot](http://t.me/empirebot/game?startapp=hero5496274031)
+Click the following URL to register: 
 
 # How to Use
 - [Windows](#windows)
@@ -75,7 +75,7 @@ Click the following URL to register: [XEmpire Bot](http://t.me/empirebot/game?st
 
 3. Clone this repository:
    ```shell
-   git clone https://github.com/BlackDragonHacker/XEmpire.git
+   git clone https://github.com/AshenFdo2/ashenxbot.git
    ```
 
 4. Navigate to the XEmpire directory:
@@ -110,7 +110,7 @@ Click the following URL to register: [XEmpire Bot](http://t.me/empirebot/game?st
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/BlackDragonHacker/XEmpire.git
+   git clone https://github.com/AshenFdo2/ashenxbot.git
    ```
 
 3. Navigate to the XEmpire directory
@@ -145,7 +145,7 @@ Click the following URL to register: [XEmpire Bot](http://t.me/empirebot/game?st
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/BlackDragonHacker/XEmpire.git
+   git clone https://github.com/AshenFdo2/ashenxbot.git
    ```
 
 3. Navigate to the XEmpire directory
@@ -165,10 +165,4 @@ Click the following URL to register: [XEmpire Bot](http://t.me/empirebot/game?st
    node XEmpire.js
    ```
 
-# How to get auth token
 
-[Watch Video](https://youtu.be/JY0ER5FqHEc)
-
-**🚫 Create a session at your own risk.  This is very dangerous for your account.  Your account may be banned 🚫**
-
-# Thank you
